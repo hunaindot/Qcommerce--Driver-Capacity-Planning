@@ -1,0 +1,10 @@
+absl-py==1.0.0
+et-xmlfile==1.1.0
+numpy==1.22.3
+openpyxl==3.0.9
+ortools==9.3.10497
+pandas==1.4.2
+protobuf==3.20.1
+python-dateutil==2.8.2
+pytz==2022.1
+six==1.16.0
